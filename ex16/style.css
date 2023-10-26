@@ -1,0 +1,39 @@
+body {
+    color: white;
+    background-color: rgb(44, 90, 44);
+    margin-left: 750px;
+}
+
+button{
+    color: white;
+    background-color: red;
+    border-radius: 10px;
+}
+
+.container1{
+    width: 200px;
+    height: 170px;
+    background-color: rgb(217, 221, 217);
+    border-radius: 7px;
+    padding: 8px;
+    color: black;
+}
+
+.container2{
+    width: 200px;
+    height: 100px;
+    background-color: rgb(217, 221, 217);
+    border-radius: 7px;
+    padding: 8px;
+    color: black;
+}
+
+.time{
+
+    color: rgb(0, 0, 0);
+    width: 200px;
+    height: 170px;
+    background-color: rgb(217, 221, 217);
+    border-radius: 7px;
+    padding: 8px;
+}
